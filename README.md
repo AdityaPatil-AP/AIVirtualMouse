@@ -10,12 +10,15 @@ For the Capstone Project of second semester, our team has developed AI Virtual M
 Index finger and pinky finger for scrolling down,🤘
 
 Thumb and pinky finger for scrolling up.🤙
+
 ![image](https://user-images.githubusercontent.com/94468283/180596270-5bbd6a44-8dcf-4a43-b891-319ee0ea9166.png)
 
 There are two python files : 
 1) AiVirtualMouseProject.py - It acts as the main source code file which handles all the functions which we have implemented. 
 2) HandDetectorModule.py : It helps in processing of images in order to detect our hands and then according to input it provides the specific functionality and redirects to the source code.
+
 ![image](https://user-images.githubusercontent.com/94468283/180596383-1200143f-d709-4f6e-87bb-551eb6cbde7b.png)
+
 Modules used for the program are OpenCV for Video Capture and processing, HandTrackingModule for detection and processing of fingers seen through camera which is done using Mediapipe by Google, Numpy for arrays, autopy and pyautogui for all mouse functions. Jupyter Notebook for testing and running the program.
 
 One of the main advantages of this program is that we can choose any set of gestures we want for any particular mouse function. We can add more mouse or even keyboard⌨️ functions with other set of fingers to make the program effective and stack more functions in a single program.
