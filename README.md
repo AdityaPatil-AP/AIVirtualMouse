@@ -1,5 +1,5 @@
 # AIVirtualMouse
- 
+ https://github.com/AdityaPatil-AP/AIVirtualMouse/issues/new
 For the Capstone Project of second semester, our team has developed AI Virtual Mouse using OpenCV which is based on finger detection and can perform various mouse callback functions. It follows the trail of your index finger☝️ to move the cursor of your mouse🖱️ and can perform other functions with gestures like,
 
 2 finger up for left click✌️,
